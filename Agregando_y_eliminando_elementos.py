@@ -23,5 +23,5 @@ del frutas[2] # Este eliminara un elemento de la lista. Se lo indicaremos con el
 # es seguido de un punto despues de la lista.
 print(frutas)
 
-frutas.clear()
+frutas.clear() # Este "limpiara" toda la lista
 print(frutas)
